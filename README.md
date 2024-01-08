@@ -49,3 +49,8 @@ Open another terminal in the project folder.
 Once the servers are running, open your browser and visit http://localhost:3000.
 
 That's it! You should now be able to access the chat application locally.
+
+
+# Deployed url:
+
+- https://chat-application-frontend-beige.vercel.app/
